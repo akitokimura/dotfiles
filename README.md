@@ -1,13 +1,13 @@
 # dotfiles
-My dotfiles forked from mazgi/dotfiles
+My dotfiles forked from shuji-koike/dotfiles
 
 ## clone!
 
 ```
-git clone git@github.com:shuji-koike/dotfiles.git ~/.dotfiles
+git clone git@github.com:akitokimura/dotfiles.git ~/.dotfiles
 
-# git clone git@github.com:shuji-koike/dotfiles.git ~/Documents/github.com/shuji-koike/dotfiles
-# ln -sf ~/Documents/github.com/shuji-koike/dotfiles ~/.dotfiles
+# git clone git@github.com:akitokimura/dotfiles.git ~/Documents/github.com/akitokimura/dotfiles
+# ln -sf ~/Documents/github.com/akitokimura/dotfiles ~/.dotfiles
 ```
 
 ## link!
@@ -26,4 +26,4 @@ ln -sf .dotfiles/vim/.vimrc
 
 ## that's it!
 
-:trollface:
+:innocent:
